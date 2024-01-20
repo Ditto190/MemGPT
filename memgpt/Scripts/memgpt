@@ -1,0 +1,6 @@
+#!C:\MyMASProject\4MAS-MemGPT_MetGPT_ChatDev_AutoGPT\agents\MemGPT\memgpt\Scripts\python.exe
+import sys
+from memgpt.main import app
+
+if __name__ == '__main__':
+    sys.exit(app())
